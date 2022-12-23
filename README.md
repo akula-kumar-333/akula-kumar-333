@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Jenkins, Ansible, Terraform**
 
-- 📫 How to reach me **akulakumar333@gmail.com**
+- 📫 How to reach me **akulakumar280@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
